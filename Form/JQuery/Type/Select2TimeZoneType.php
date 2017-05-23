@@ -24,7 +24,7 @@ use Symfony\Component\OptionsResolver\Options;
  * @author Chris Tickner <chris.tickner@gmail.com>
  * @author Benjamin Schumacher <benschumi@hotmail.fr>
  */
-class Select2TimezoneType extends AbstractType
+class Select2TimeZoneType extends AbstractType
 {
     private $configs;
 
